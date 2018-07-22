@@ -1,0 +1,9 @@
+void Start()
+{
+	Size(600, 400);
+}
+
+void Draw()
+{
+	Background(255);
+}
